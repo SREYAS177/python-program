@@ -1,3 +1,7 @@
+# Name        : Sreyas Suresh
+# Roll Number : 55
+# Class       : MCA
+
 # Accept comma-separated numbers
 
 data = input("Enter numbers separated by comma: ")

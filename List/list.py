@@ -1,3 +1,6 @@
+# Name        : Sreyas Suresh
+# Roll Number : 55
+# Class       : MCA
 # List operations
 
 numbers = [10, 20, 30, 40, 50]

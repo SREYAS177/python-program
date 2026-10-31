@@ -1,3 +1,6 @@
+# Name        : Sreyas Suresh
+# Roll Number : 55
+# Class       : MCA
 num=int(input("Enter a number: "))
 if num <=1:
     print("Not a prime number")

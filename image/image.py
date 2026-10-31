@@ -1,4 +1,6 @@
-
+# Name        : Sreyas Suresh
+# Roll Number : 55
+# Class       : MCA
 import numpy as np
 
 # Represent an image using a matrix

@@ -1,3 +1,6 @@
+# Name        : Sreyas Suresh
+# Roll Number : 55
+# Class       : MCA
 n_terms=int(input("Enter the number of terms: "))
 n1, n2 = 0, 1
 if n_terms <= 0:

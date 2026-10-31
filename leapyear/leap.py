@@ -1,3 +1,6 @@
+# Name        : Sreyas Suresh
+# Roll Number : 55
+# Class       : MCA
 year=(int(input("Enter a year: ")))
 if (year % 4) == 0:
     if (year % 100) == 0:

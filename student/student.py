@@ -1,3 +1,6 @@
+# Name        : Sreyas Suresh
+# Roll Number : 55
+# Class       : MCA
 # Student Performance Analysis System
 
 def total_marks(marks):

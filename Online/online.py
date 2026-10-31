@@ -1,4 +1,6 @@
-
+# Name        : Sreyas Suresh
+# Roll Number : 55
+# Class       : MCA
 import requests
 
 def get_virustotal_report(file_hash, api_key):
